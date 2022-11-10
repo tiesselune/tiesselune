@@ -8,6 +8,8 @@ I'm working on 🦀 Rust stuff and utilities including a toy 3D engine, `wtvr3d`
 
 Don't hesitate to reach out here on my public 💌 address!
 
+<a rel="me" href="https://octodon.social/@tiesselune">Follow me on Mastodon 🐘 !(FR 🇫🇷)</a>
+
 <!---
 tiesselune/tiesselune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
