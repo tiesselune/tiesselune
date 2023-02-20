@@ -4,7 +4,7 @@
 
 👨‍💻 I mostly work on Web stuff and games, but I enjoy getting my hands dirty in low-level shenanigans every once in a while, and automating most of the tasks I don't want to spend time on.
 
-I'm working on 🦀 Rust stuff and utilities including a toy 3D engine, `wtvr3d`, as well as Javascript & TypeScript webcomponents, and use Unity 3D 🧊 on the daily.
+I'm working on 🦀 Rust stuff and utilities including a toy 3D engine, `wtvr3d`, and an embedded database, `reindeer`, as well as Javascript & TypeScript webcomponents, and teach Unity 3D 🧊 and Unreal Engine 5 on the daily.
 
 Don't hesitate to reach out here on my public 💌 address!
 
